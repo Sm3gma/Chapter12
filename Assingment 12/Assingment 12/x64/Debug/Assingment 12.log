@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\jessy\source\repos\Assingment 12\Assingment 12\input.h(22,24): warning C4129: '/': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\Users\jessy\source\repos\Assingment 12\Assingment 12\input.h(24,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'main.cpp')
+  
+C:\Users\jessy\source\repos\Assingment 12\Assingment 12\main.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jessy\source\repos\Assingment 12\Assingment 12\main.cpp(221,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jessy\source\repos\Assingment 12\Assingment 12\main.cpp(260,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assingment 12.vcxproj -> C:\Users\jessy\source\repos\Assingment 12\x64\Debug\Assingment 12.exe
